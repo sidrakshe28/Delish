@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="./src/assets/logo.png" alt="forkify" width="280px">
+    <img src="./dist/img/logo.png" alt="forkify" width="280px">
    
 
 </p>
 
-Delish is a vanilla JavaScript application that interacts with the forkify API to fetch and display recipe food data. The user can search for a specific recipe, and add ingredients to a shopping list or save to a favourites list via local storage.
+Delish is a vanilla JavaScript application that interacts with the FORKIFY API to fetch and display recipe food data. The user can search for a specific recipe, and add ingredients to a shopping list or save to a favourites list via local storage.
 
 ## : DEMO
 <p align="center">
@@ -37,7 +37,7 @@ Delish is a vanilla JavaScript application that interacts with the forkify API t
     npm install
     ```
     This will install all the project dependencies.
-3. This Api doesnot require any use of  CORS proxy or API key.Read the documentation here.[https://forkify-api.herokuapp.com/]
+3. This Api doesnot require any use of  CORS proxy or API key.[Read the documentation here.](https://forkify-api.herokuapp.com/)
 4. To start the development server run:
     ```
     npm start
