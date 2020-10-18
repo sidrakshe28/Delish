@@ -15,12 +15,10 @@ Forkify is a vanilla JavaScript application that interacts with the FORKIFY API 
 ##  Technology Stack
 ![Javascript](https://img.shields.io/badge/frontend-javascript-61dafb?style=flat&logo=Javascript)
 ![styled-components](https://img.shields.io/badge/styling-styled--components-%23DB7093?style=flat&logo=styled-components)
-![icons](https://img.shields.io/badge/icons-react--icons-red?style=flat&logo=React)
 
 
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [styled-components](https://styled-components.com/)
-* [React Icons](https://react-icons.github.io/react-icons/)
 
 ### API used
 * For fetching food recipes : [FORKIFY API](https://forkify-api.herokuapp.com/)
